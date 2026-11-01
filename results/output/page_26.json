@@ -1,0 +1,171 @@
+{
+ "page": "page_26.png",
+ "no_text": false,
+ "lines": [
+  {
+   "line": 0,
+   "box": [
+    344,
+    22,
+    792,
+    32
+   ],
+   "text": "૯ 𑈠𑈊",
+   "problems": []
+  },
+  {
+   "line": 1,
+   "box": [
+    9,
+    61,
+    795,
+    167
+   ],
+   "text": "𑈦𑈬𑈓𑈰𑈣𑈘𑈷𑈍𑈱𑈜𑈶𑈦𑈥𑈦𑈷𑈠𑈳𑈥𑈱𑈓𑈰𑈴𑈺",
+   "problems": []
+  },
+  {
+   "line": 2,
+   "box": [
+    10,
+    165,
+    784,
+    259
+   ],
+   "text": "𑈦𑈬𑈦 𑈬𑈛𑈦𑈬 𑈊𑈤𑈞𑈬𑈞𑈭𑈦 𑈬𑈦𑈶 ૨ ૨ 𑈦𑈬",
+   "problems": [
+    "pos 4: mark U+1122C KHOJKI VOWEL SIGN AA has no base letter",
+    "pos 17: mark U+1122C KHOJKI VOWEL SIGN AA has no base letter"
+   ]
+  },
+  {
+   "line": 3,
+   "box": [
+    9,
+    258,
+    796,
+    335
+   ],
+   "text": "𑈍𑈯 𑈋𑈬𑈧𑈬𑈩૧ ૨",
+   "problems": []
+  },
+  {
+   "line": 4,
+   "box": [
+    0,
+    567,
+    48,
+    639
+   ],
+   "text": ")",
+   "problems": []
+  },
+  {
+   "line": 5,
+   "box": [
+    10,
+    337,
+    795,
+    609
+   ],
+   "text": "𑈘𑈷 𑈿𑈰𑈠𑈗𑈰𑈎𑈺𑈿𑈴",
+   "problems": []
+  },
+  {
+   "line": 6,
+   "box": [
+    10,
+    636,
+    71,
+    760
+   ],
+   "text": "𑈘𑈯𑈴𑈜𑈴",
+   "problems": []
+  },
+  {
+   "line": 7,
+   "box": [
+    156,
+    631,
+    582,
+    675
+   ],
+   "text": "𑈦𑈟𑈬𑈿𑈮𑈺𑈂𑈠𑈊𑈔𑈺𑈤 ૨ 𑈂𑈦𑈺𑈺𑈚 𑈬 𑈪𑈦",
+   "problems": [
+    "pos 21: mark U+1122C KHOJKI VOWEL SIGN AA has no base letter"
+   ]
+  },
+  {
+   "line": 8,
+   "box": [
+    159,
+    676,
+    742,
+    745
+   ],
+   "text": "𑈊𑈯𑈊𑈤𑈬𑈞𑈴𑈍𑈳𑈊𑈯𑈩𑈊𑈬𑈜𑈮 𑈸𑈟𑈦𑈂𑈦𑈺𑈜𑈴𑈍𑈶𑈦𑈬",
+   "problems": []
+  },
+  {
+   "line": 9,
+   "box": [
+    481,
+    604,
+    585,
+    666
+   ],
+   "text": "𑈍𑈷𑈦𑈬𑈺𑈉𑈶𑈬𑈦૮𑈦",
+   "problems": []
+  },
+  {
+   "line": 10,
+   "box": [
+    681,
+    645,
+    719,
+    704
+   ],
+   "text": "𑈪𑈱𑈪𑈯𑈴",
+   "problems": []
+  },
+  {
+   "line": 11,
+   "box": [
+    200,
+    751,
+    766,
+    814
+   ],
+   "text": "𑈺𑈦 𑈝𑈩 𑈬𑈊𑈦𑈬𑈺𑈺૮𑈊)𑈸𑈠𑈰𑈉𑈬𑈺𑈺𑈺𑈦𑈓𑈴 𑈖𑈰𑈴𑈺𑈺",
+   "problems": [
+    "pos 6: mark U+1122C KHOJKI VOWEL SIGN AA has no base letter"
+   ]
+  },
+  {
+   "line": 12,
+   "box": [
+    7,
+    769,
+    737,
+    1016
+   ],
+   "text": "𑈞𑈰𑈜𑈱𑈩𑈴𑈢𑈶𑈉𑈰𑈊𑈰𑈊𑈷𑈢𑈷𑈉𑈴𑈢𑈷𑈿𑈰𑈴𑈨𑈰𑈊𑈓𑈭𑈪",
+   "problems": []
+  },
+  {
+   "line": 13,
+   "box": [
+    12,
+    949,
+    796,
+    1200
+   ],
+   "text": "𑈉𑈶𑈺𑈺𑈍𑈷𑈜𑈷𑈦𑈬𑈉𑈰𑈴𑈞𑈮𑈦𑈱",
+   "problems": []
+  }
+ ],
+ "seconds": {
+  "segmentation": 0.152,
+  "recognition": 0.117
+ }
+}

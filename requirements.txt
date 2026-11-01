@@ -1,0 +1,7 @@
+# tested with Python 3.13
+numpy>=1.26
+opencv-python-headless>=4.8
+scikit-image>=0.22
+scikit-learn>=1.4
+Pillow>=10.0        # needs libraqm for correct Khojki shaping (PIL.features.check('raqm'))
+pypdf>=4.0

@@ -1,0 +1,20 @@
+id	image	page_text	crop_text	page_tokens	gloss	uncertain
+p28_l01	data/lines/p28_l01.png	𑈩𑈴𑈉𑈥𑈤𑈬𑈺𑈩𑈣𑈛𑈬𑈺𑈨𑈚𑈬𑈺	𑈩𑈴𑈉𑈥𑈤𑈬𑈺𑈩𑈣𑈛𑈬𑈺𑈨𑈚𑈬𑈺	sa -m kha ya ma -aa : sa bha da -aa : va tha -aa :	heading	KHA, YA, BHA in words 1-2
+p28_l03	data/lines/p28_l03.png	૪ 𑈐𑈯𑈊𑈺	૪ 𑈐𑈯𑈊𑈺	4 _ ja -u ga :	4 jug (ages)	
+p28_l04	data/lines/p28_l04.png	૪ 𑈨𑈰𑈜𑈺	૪ 𑈨𑈰𑈜𑈺	4 _ va -e ddda :	4 ved	glyph = DDDA (Devraj form of /d/)
+p28_l05	data/lines/p28_l05.png	૧ 𑈈𑈦𑈤𑈬𑈺	૧ 𑈈𑈦𑈤𑈬𑈺	1 _ ka ra ma -aa :	1 Krta(?)	3rd glyph matches MA; word suggests TA
+p28_l06	data/lines/p28_l06.png	૧ 𑈦𑈊𑈺	૧ 𑈦𑈊𑈺	1 _ ra ga :	1 Rag (Rig)	
+p28_l07	data/lines/p28_l07.png	૨ 𑈙𑈰𑈤𑈬𑈺	૨ 𑈙𑈰𑈤𑈬𑈺	2 _ ta -e ma -aa :	2 Treta	2nd glyph matches MA; word suggests TA
+p28_l08	data/lines/p28_l08.png	૨ 𑈐𑈯𑈐𑈦𑈺	૨ 𑈐𑈯𑈐𑈦𑈺	2 _ ja -u ja ra :	2 Jujar (Yajur)	
+p28_l09	data/lines/p28_l09.png	૩ 𑈛𑈯𑈁𑈟𑈯𑈦𑈺	૩ 𑈛𑈯𑈁𑈟𑈯𑈦𑈺	3 _ da -u aa pa -u ra :	3 Duapur	first letter DA vs JA
+p28_l10	data/lines/p28_l10.png	૨ 𑈩𑈬𑈴𑈤𑈺	૨ 𑈩𑈬𑈴𑈤𑈺	2 _ sa -aa -m ma :	3 Sam (printed numeral looks like 2)	mark above SA: anusvara?
+p28_l11	data/lines/p28_l11.png	૪ 𑈈𑈧𑈐𑈯𑈊𑈺	૪ 𑈈𑈧𑈐𑈯𑈊𑈺	4 _ ka la ja -u ga :	4 Kaljug	
+p28_l12	data/lines/p28_l12.png	૪ 𑈀𑈚𑈦𑈺	૪ 𑈀𑈚𑈦𑈺	4 _ a tha ra :	4 Atharv	no VA visible
+p28_l21	data/lines/p28_l21.png	૪ 𑈉𑈬𑈴𑈘𑈮𑈺	૪ 𑈉𑈬𑈴𑈘𑈮𑈺	4 _ kha -aa -m nna -ii :	4 khani	NNA vs NA; anusvara
+p28_l22	data/lines/p28_l22.png	૪ 𑈟𑈯𑈦𑈩𑈬𑈦𑈚𑈺	૪ 𑈟𑈯𑈦𑈩𑈬𑈦𑈚𑈺	4 _ pa -u ra sa -aa ra tha :	4 purusarth	
+p28_l24	data/lines/p28_l24.png	૧ 𑈛𑈦𑈤𑈺	𑈛𑈦𑈤𑈺	1 _ da ra ma :	1 dharam	
+p28_l25	data/lines/p28_l25.png	૨ 𑈐𑈬𑈦𑈰𑈐𑈬𑈺	૨ 𑈐𑈬𑈦𑈰𑈐𑈬𑈺	2 _ ja -aa ra -e ja -aa :	2 jareja	
+p28_l26	data/lines/p28_l26.png	૨ 𑈀𑈦𑈚𑈺	𑈀𑈦𑈚𑈺	2 _ a ra tha :	2 arath	
+p28_l28	data/lines/p28_l28.png	૩ 𑈈𑈬𑈤𑈺	૩ 𑈈𑈬𑈤𑈺	3 _ ka -aa ma :	3 kam	
+p28_l29	data/lines/p28_l29.png	૪ 𑈃𑈜𑈤𑈲𑈐𑈬𑈺	૪ 𑈃𑈜𑈤𑈲𑈐𑈬𑈺	4 _ u ddda ma -o ja -aa :	4 (u)dmoja	
+p28_l30	data/lines/p28_l30.png	૪ 𑈤𑈲𑈉𑈩𑈷𑈺	૪ 𑈤𑈲𑈉𑈩𑈷𑈺	4 _ ma -o kha sa -shadda :	4 mokhs	SA vs KHA; shadda vs nukta

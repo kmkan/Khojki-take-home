@@ -1,0 +1,363 @@
+{
+ "summary": {
+  "lines": 19,
+  "chars": 146,
+  "errors": 67,
+  "CER": 0.4589,
+  "CER_95CI_bootstrap": [
+   0.346,
+   0.609
+  ],
+  "errors_by_stage": {
+   "line_detection": 4,
+   "recognition": 53,
+   "unicode_mapping": 11
+  },
+  "outputs_valid": 19,
+  "top_confusions": [
+   {
+    "ref": "∅",
+    "hyp": "VOWEL SIGN U",
+    "count": 4
+   },
+   {
+    "ref": "∅",
+    "hyp": "PHA",
+    "count": 2
+   },
+   {
+    "ref": "GU DIGIT FOUR",
+    "hyp": "SIGN ANUSVARA",
+    "count": 2
+   },
+   {
+    "ref": "∅",
+    "hyp": "DA",
+    "count": 2
+   },
+   {
+    "ref": "∅",
+    "hyp": "VOWEL SIGN E",
+    "count": 2
+   },
+   {
+    "ref": "VOWEL SIGN AA",
+    "hyp": "∅",
+    "count": 2
+   },
+   {
+    "ref": "∅",
+    "hyp": "NNA",
+    "count": 2
+   },
+   {
+    "ref": "∅",
+    "hyp": "NYA",
+    "count": 1
+   },
+   {
+    "ref": "YA",
+    "hyp": "VOWEL SIGN I",
+    "count": 1
+   },
+   {
+    "ref": "MA",
+    "hyp": "YA",
+    "count": 1
+   },
+   {
+    "ref": "BHA",
+    "hyp": "BBA",
+    "count": 1
+   },
+   {
+    "ref": "THA",
+    "hyp": "LA",
+    "count": 1
+   },
+   {
+    "ref": "VOWEL SIGN AA",
+    "hyp": "VOWEL SIGN II",
+    "count": 1
+   },
+   {
+    "ref": "∅",
+    "hyp": "TTHA",
+    "count": 1
+   },
+   {
+    "ref": "KA",
+    "hyp": "QA",
+    "count": 1
+   }
+  ]
+ },
+ "lines": [
+  {
+   "id": "p28_l01",
+   "ref": "𑈩𑈴𑈉𑈥𑈤𑈬𑈺𑈩𑈣𑈛𑈬𑈺𑈨𑈚𑈬𑈺",
+   "pred": "𑈩𑈓𑈴𑈉𑈭𑈥𑈬𑈺𑈩𑈢𑈛𑈬𑈺𑈨𑈧𑈮𑈺",
+   "ref_tokens": "sa -m kha ya ma -aa : sa bha da -aa : va tha -aa :",
+   "pred_tokens": "sa nya -anusvara kha -i ya -aa : sa bba da -aa : va la -ii :",
+   "chars": 16,
+   "errors": 6,
+   "cer": 0.375,
+   "seg_errors": 0,
+   "map_errors": 2,
+   "rec_errors": 4,
+   "valid": true
+  },
+  {
+   "id": "p28_l03",
+   "ref": "૪ 𑈐𑈯𑈊𑈺",
+   "pred": "૪ 𑈐𑈯𑈕𑈊𑈺",
+   "ref_tokens": "4 _ ja -u ga :",
+   "pred_tokens": "4 _ ja -u ttha ga :",
+   "chars": 6,
+   "errors": 1,
+   "cer": 0.167,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 1,
+   "valid": true
+  },
+  {
+   "id": "p28_l04",
+   "ref": "૪ 𑈨𑈰𑈜𑈺",
+   "pred": "𑈠𑈯𑈴 𑈨𑈰𑈜𑈺",
+   "ref_tokens": "4 _ va -e ddda :",
+   "pred_tokens": "pha -u -anusvara _ va -e ddda :",
+   "chars": 6,
+   "errors": 3,
+   "cer": 0.5,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 3,
+   "valid": true
+  },
+  {
+   "id": "p28_l05",
+   "ref": "૧ 𑈈𑈦𑈤𑈬𑈺",
+   "pred": "૧ 𑈿𑈦𑈙𑈬𑈺",
+   "ref_tokens": "1 _ ka ra ma -aa :",
+   "pred_tokens": "1 _ qa ra ta -aa :",
+   "chars": 7,
+   "errors": 2,
+   "cer": 0.286,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 1,
+   "valid": true
+  },
+  {
+   "id": "p28_l06",
+   "ref": "૧ 𑈦𑈊𑈺",
+   "pred": "૨ 𑈦𑈯𑈊𑈺",
+   "ref_tokens": "1 _ ra ga :",
+   "pred_tokens": "2 _ ra -u ga :",
+   "chars": 5,
+   "errors": 2,
+   "cer": 0.4,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l07",
+   "ref": "૨ 𑈙𑈰𑈤𑈬𑈺",
+   "pred": "૨ 𑈧𑈰𑈤𑈬𑈺",
+   "ref_tokens": "2 _ ta -e ma -aa :",
+   "pred_tokens": "2 _ la -e ma -aa :",
+   "chars": 7,
+   "errors": 1,
+   "cer": 0.143,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 1,
+   "valid": true
+  },
+  {
+   "id": "p28_l08",
+   "ref": "૨ 𑈐𑈯𑈐𑈦𑈺",
+   "pred": "૨ 𑈐𑈯𑈊𑈸𑈦𑈯𑈺",
+   "ref_tokens": "2 _ ja -u ja ra :",
+   "pred_tokens": "2 _ ja -u ga | ra -u :",
+   "chars": 7,
+   "errors": 3,
+   "cer": 0.429,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l09",
+   "ref": "૩ 𑈛𑈯𑈁𑈟𑈯𑈦𑈺",
+   "pred": "૩ 𑈉𑈯𑈁𑈧𑈯𑈦𑈺",
+   "ref_tokens": "3 _ da -u aa pa -u ra :",
+   "pred_tokens": "3 _ kha -u aa la -u ra :",
+   "chars": 9,
+   "errors": 2,
+   "cer": 0.222,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l10",
+   "ref": "૨ 𑈩𑈬𑈴𑈤𑈺",
+   "pred": "૨ 𑈩𑈴𑈬𑈤𑈺",
+   "ref_tokens": "2 _ sa -aa -m ma :",
+   "pred_tokens": "2 _ sa -anusvara -aa ma :",
+   "chars": 7,
+   "errors": 2,
+   "cer": 0.286,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 1,
+   "valid": true
+  },
+  {
+   "id": "p28_l11",
+   "ref": "૪ 𑈈𑈧𑈐𑈯𑈊𑈺",
+   "pred": "૪ 𑈝𑈧𑈐𑈯𑈺𑈊𑈺",
+   "ref_tokens": "4 _ ka la ja -u ga :",
+   "pred_tokens": "4 _ dha la ja -u : ga :",
+   "chars": 8,
+   "errors": 2,
+   "cer": 0.25,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l12",
+   "ref": "૪ 𑈀𑈚𑈦𑈺",
+   "pred": "𑈏𑈯 𑈛𑈡𑈮𑈛𑈷𑈬",
+   "ref_tokens": "4 _ a tha ra :",
+   "pred_tokens": "cha -u _ da ba -ii da -shadda -aa",
+   "chars": 6,
+   "errors": 8,
+   "cer": 1.333,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 7,
+   "valid": true
+  },
+  {
+   "id": "p28_l21",
+   "ref": "૪ 𑈉𑈬𑈴𑈘𑈮𑈺",
+   "pred": "𑈠 𑈉𑈬𑈜𑈢𑈺",
+   "ref_tokens": "4 _ kha -aa -m nna -ii :",
+   "pred_tokens": "pha _ kha -aa ddda bba :",
+   "chars": 8,
+   "errors": 4,
+   "cer": 0.5,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 4,
+   "valid": true
+  },
+  {
+   "id": "p28_l22",
+   "ref": "૪ 𑈟𑈯𑈦𑈩𑈬𑈦𑈚𑈺",
+   "pred": "૪ 𑈏𑈯𑈦𑈰𑈦𑈟𑈬𑈦𑈚𑈺",
+   "ref_tokens": "4 _ pa -u ra sa -aa ra tha :",
+   "pred_tokens": "4 _ cha -u ra -e ra pa -aa ra tha :",
+   "chars": 10,
+   "errors": 4,
+   "cer": 0.4,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 3,
+   "valid": true
+  },
+  {
+   "id": "p28_l24",
+   "ref": "૧ 𑈛𑈦𑈤𑈺",
+   "pred": "𑈛𑈦𑈤𑈺",
+   "ref_tokens": "1 _ da ra ma :",
+   "pred_tokens": "da ra ma :",
+   "chars": 6,
+   "errors": 2,
+   "cer": 0.333,
+   "seg_errors": 2,
+   "map_errors": 0,
+   "rec_errors": 0,
+   "valid": true
+  },
+  {
+   "id": "p28_l25",
+   "ref": "૨ 𑈐𑈬𑈦𑈰𑈐𑈬𑈺",
+   "pred": "૨ 𑈐𑈟𑈰𑈐𑈺",
+   "ref_tokens": "2 _ ja -aa ra -e ja -aa :",
+   "pred_tokens": "2 _ ja pa -e ja :",
+   "chars": 9,
+   "errors": 3,
+   "cer": 0.333,
+   "seg_errors": 0,
+   "map_errors": 0,
+   "rec_errors": 3,
+   "valid": true
+  },
+  {
+   "id": "p28_l26",
+   "ref": "૨ 𑈀𑈦𑈚𑈺",
+   "pred": "𑈀𑈴𑈘𑈷𑈘𑈛𑈯𑈴)",
+   "ref_tokens": "2 _ a ra tha :",
+   "pred_tokens": "a -anusvara nna -shadda nna da -u -anusvara )",
+   "chars": 6,
+   "errors": 9,
+   "cer": 1.5,
+   "seg_errors": 2,
+   "map_errors": 0,
+   "rec_errors": 8,
+   "valid": true
+  },
+  {
+   "id": "p28_l28",
+   "ref": "૩ 𑈈𑈬𑈤𑈺",
+   "pred": "𑈍𑈯 𑈤𑈬𑈤𑈺",
+   "ref_tokens": "3 _ ka -aa ma :",
+   "pred_tokens": "nga -u _ ma -aa ma :",
+   "chars": 6,
+   "errors": 3,
+   "cer": 0.5,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l29",
+   "ref": "૪ 𑈃𑈜𑈤𑈲𑈐𑈬𑈺",
+   "pred": "૪ 𑈃𑈜𑈙𑈬𑈙𑈺",
+   "ref_tokens": "4 _ u ddda ma -o ja -aa :",
+   "pred_tokens": "4 _ u ddda ta -aa ta :",
+   "chars": 9,
+   "errors": 4,
+   "cer": 0.444,
+   "seg_errors": 0,
+   "map_errors": 2,
+   "rec_errors": 2,
+   "valid": true
+  },
+  {
+   "id": "p28_l30",
+   "ref": "૪ 𑈤𑈲𑈉𑈩𑈷𑈺",
+   "pred": "𑈠𑈯𑈴 𑈤𑈰𑈊𑈉𑈩𑈶𑈺",
+   "ref_tokens": "4 _ ma -o kha sa -shadda :",
+   "pred_tokens": "pha -u -anusvara _ ma -e ga kha sa -nukta :",
+   "chars": 8,
+   "errors": 6,
+   "cer": 0.75,
+   "seg_errors": 0,
+   "map_errors": 1,
+   "rec_errors": 5,
+   "valid": true
+  }
+ ]
+}

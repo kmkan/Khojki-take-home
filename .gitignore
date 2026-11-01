@@ -1,0 +1,9 @@
+# the sample scans are for this exercise only: extract them locally (scripts/extract_pages.py)
+data/pages/
+results/output/*_lines.png
+models/synth_cache.npz
+models/_exp.pkl
+__pycache__/
+*.pyc
+.env
+*.pdf

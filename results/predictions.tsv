@@ -1,0 +1,20 @@
+id	CER	ref	pred	ref_tokens	pred_tokens
+p28_l01	0.375	𑈩𑈴𑈉𑈥𑈤𑈬𑈺𑈩𑈣𑈛𑈬𑈺𑈨𑈚𑈬𑈺	𑈩𑈓𑈴𑈉𑈭𑈥𑈬𑈺𑈩𑈢𑈛𑈬𑈺𑈨𑈧𑈮𑈺	sa -m kha ya ma -aa : sa bha da -aa : va tha -aa :	sa nya -anusvara kha -i ya -aa : sa bba da -aa : va la -ii :
+p28_l03	0.167	૪ 𑈐𑈯𑈊𑈺	૪ 𑈐𑈯𑈕𑈊𑈺	4 _ ja -u ga :	4 _ ja -u ttha ga :
+p28_l04	0.5	૪ 𑈨𑈰𑈜𑈺	𑈠𑈯𑈴 𑈨𑈰𑈜𑈺	4 _ va -e ddda :	pha -u -anusvara _ va -e ddda :
+p28_l05	0.286	૧ 𑈈𑈦𑈤𑈬𑈺	૧ 𑈿𑈦𑈙𑈬𑈺	1 _ ka ra ma -aa :	1 _ qa ra ta -aa :
+p28_l06	0.4	૧ 𑈦𑈊𑈺	૨ 𑈦𑈯𑈊𑈺	1 _ ra ga :	2 _ ra -u ga :
+p28_l07	0.143	૨ 𑈙𑈰𑈤𑈬𑈺	૨ 𑈧𑈰𑈤𑈬𑈺	2 _ ta -e ma -aa :	2 _ la -e ma -aa :
+p28_l08	0.429	૨ 𑈐𑈯𑈐𑈦𑈺	૨ 𑈐𑈯𑈊𑈸𑈦𑈯𑈺	2 _ ja -u ja ra :	2 _ ja -u ga | ra -u :
+p28_l09	0.222	૩ 𑈛𑈯𑈁𑈟𑈯𑈦𑈺	૩ 𑈉𑈯𑈁𑈧𑈯𑈦𑈺	3 _ da -u aa pa -u ra :	3 _ kha -u aa la -u ra :
+p28_l10	0.286	૨ 𑈩𑈬𑈴𑈤𑈺	૨ 𑈩𑈴𑈬𑈤𑈺	2 _ sa -aa -m ma :	2 _ sa -anusvara -aa ma :
+p28_l11	0.25	૪ 𑈈𑈧𑈐𑈯𑈊𑈺	૪ 𑈝𑈧𑈐𑈯𑈺𑈊𑈺	4 _ ka la ja -u ga :	4 _ dha la ja -u : ga :
+p28_l12	1.333	૪ 𑈀𑈚𑈦𑈺	𑈏𑈯 𑈛𑈡𑈮𑈛𑈷𑈬	4 _ a tha ra :	cha -u _ da ba -ii da -shadda -aa
+p28_l21	0.5	૪ 𑈉𑈬𑈴𑈘𑈮𑈺	𑈠 𑈉𑈬𑈜𑈢𑈺	4 _ kha -aa -m nna -ii :	pha _ kha -aa ddda bba :
+p28_l22	0.4	૪ 𑈟𑈯𑈦𑈩𑈬𑈦𑈚𑈺	૪ 𑈏𑈯𑈦𑈰𑈦𑈟𑈬𑈦𑈚𑈺	4 _ pa -u ra sa -aa ra tha :	4 _ cha -u ra -e ra pa -aa ra tha :
+p28_l24	0.333	૧ 𑈛𑈦𑈤𑈺	𑈛𑈦𑈤𑈺	1 _ da ra ma :	da ra ma :
+p28_l25	0.333	૨ 𑈐𑈬𑈦𑈰𑈐𑈬𑈺	૨ 𑈐𑈟𑈰𑈐𑈺	2 _ ja -aa ra -e ja -aa :	2 _ ja pa -e ja :
+p28_l26	1.5	૨ 𑈀𑈦𑈚𑈺	𑈀𑈴𑈘𑈷𑈘𑈛𑈯𑈴)	2 _ a ra tha :	a -anusvara nna -shadda nna da -u -anusvara )
+p28_l28	0.5	૩ 𑈈𑈬𑈤𑈺	𑈍𑈯 𑈤𑈬𑈤𑈺	3 _ ka -aa ma :	nga -u _ ma -aa ma :
+p28_l29	0.444	૪ 𑈃𑈜𑈤𑈲𑈐𑈬𑈺	૪ 𑈃𑈜𑈙𑈬𑈙𑈺	4 _ u ddda ma -o ja -aa :	4 _ u ddda ta -aa ta :
+p28_l30	0.75	૪ 𑈤𑈲𑈉𑈩𑈷𑈺	𑈠𑈯𑈴 𑈤𑈰𑈊𑈉𑈩𑈶𑈺	4 _ ma -o kha sa -shadda :	pha -u -anusvara _ ma -e ga kha sa -nukta :

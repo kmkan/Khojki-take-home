@@ -1,0 +1,47 @@
+page_01.png: 19 lines, seg 0.22s, rec 0.16s
+page_02.png: 25 lines, seg 0.19s, rec 0.18s
+page_03.png: 14 lines, seg 0.18s, rec 0.15s
+page_04.png: 14 lines, seg 0.16s, rec 0.18s
+page_05.png: 12 lines, seg 0.19s, rec 0.15s
+page_06.png: 16 lines, seg 0.18s, rec 0.17s
+page_07.png: 19 lines, seg 0.19s, rec 0.15s
+page_08.png: 0 lines, seg 0.06s, rec 0.00s  (no text: skipped)
+page_09.png: 13 lines, seg 0.16s, rec 0.12s
+page_10.png: 13 lines, seg 0.18s, rec 0.11s
+page_11.png: 14 lines, seg 0.16s, rec 0.12s
+page_12.png: 66 lines, seg 0.43s, rec 0.28s
+page_13.png: 15 lines, seg 0.15s, rec 0.14s
+page_14.png: 18 lines, seg 0.18s, rec 0.14s
+page_15.png: 6 lines, seg 0.15s, rec 0.11s
+page_16.png: 22 lines, seg 0.13s, rec 0.07s
+page_17.png: 27 lines, seg 0.16s, rec 0.18s
+page_18.png: 24 lines, seg 0.15s, rec 0.15s
+page_19.png: 29 lines, seg 0.14s, rec 0.15s
+page_20.png: 23 lines, seg 0.14s, rec 0.14s
+page_21.png: 21 lines, seg 0.16s, rec 0.15s
+page_22.png: 23 lines, seg 0.16s, rec 0.21s
+page_23.png: 25 lines, seg 0.19s, rec 0.26s
+page_24.png: 24 lines, seg 0.17s, rec 0.24s
+page_25.png: 200 lines, seg 2.42s, rec 0.65s
+page_26.png: 14 lines, seg 0.16s, rec 0.14s
+page_27.png: 0 lines, seg 0.05s, rec 0.00s  (no text: skipped)
+page_28.png: 32 lines, seg 0.16s, rec 0.16s
+page_29.png: 18 lines, seg 0.18s, rec 0.18s
+page_30.png: 18 lines, seg 0.16s, rec 0.19s
+page_31.png: 27 lines, seg 0.16s, rec 0.13s
+page_32.png: 27 lines, seg 0.14s, rec 0.14s
+page_33.png: 25 lines, seg 0.14s, rec 0.13s
+page_34.png: 23 lines, seg 0.13s, rec 0.12s
+page_35.png: 0 lines, seg 0.07s, rec 0.00s  (no text: skipped)
+page_36.png: 11 lines, seg 0.21s, rec 0.12s
+page_37.png: 30 lines, seg 0.23s, rec 0.36s
+page_38.png: 29 lines, seg 0.30s, rec 0.29s
+page_39.png: 16 lines, seg 0.22s, rec 0.17s
+page_40.png: 20 lines, seg 0.20s, rec 0.21s
+page_41.png: 26 lines, seg 0.20s, rec 0.23s
+page_42.png: 20 lines, seg 0.04s, rec 0.11s
+page_43.png: 56 lines, seg 0.10s, rec 0.34s
+page_44.png: 65 lines, seg 0.10s, rec 0.39s
+page_45.png: 27 lines, seg 0.07s, rec 0.15s
+page_46.png: 28 lines, seg 0.05s, rec 0.14s
+page_47.png: 28 lines, seg 0.04s, rec 0.13s

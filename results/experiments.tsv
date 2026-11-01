@@ -1,0 +1,7 @@
+experiment	train_clusters	synthetic_acc	real_CER	train_s
+final: factorised MLP, 100 renders/unit, layout prior	44339	0.716	0.459	46
+no digit layout prior	44339	0.716	0.514	46
+flat MLP (one class per base+marks)	44339	0.688	0.493	191
+kNN (k=3)	44339	0.550	0.493	6
+30% of the synthetic data	13302	0.593	0.431	14
+clean renders, no degradation (30/unit)	17216	0.916	0.431	22
